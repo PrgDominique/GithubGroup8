@@ -2,7 +2,7 @@
 function Body(props) {
 return (
 
-    <div className="qawe">
+    <div className="qawwwewe">
         {props.count}
     </div>
 )
