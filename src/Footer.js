@@ -6,7 +6,7 @@ const Footer = (props) => {
             <h1>Footer</h1>
 
             <Body count={props.count}/>
-
+            <p>lorem ipsum</p>
         </div>
 
     )
