@@ -14,6 +14,7 @@ const Header = () => {
     <div>
         <Footer count={count}/>
       <h1>Navbar</h1>
+      <h1>Sample</h1>
       <button onClick={() => setCount("B")}>Click me</button>
       <button onClick={() => setCount("C")}>Click me</button>
       <button onClick={() => setCount("D")}>Click me</button>
