@@ -17,6 +17,7 @@ const Header = () => {
       <button onClick={() => setCount("B")}>Click me</button>
       <button onClick={() => setCount("C")}>Click me</button>
       <button onClick={() => setCount("D")}>Click me</button>
+      <h1>Test</h1>
 
       
     </div>
